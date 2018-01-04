@@ -64,7 +64,7 @@ namespace ChildProcess
 		{
 			Process[] processList = Process.GetProcesses();
 			foreach(Process list in processList){
-				
+				//uygulama ismi CS6ServiceManager olan process i kapatir
 				if(list.ProcessName.Contains("CS6ServiceManager")){
 					try {
 						
@@ -73,6 +73,7 @@ namespace ChildProcess
 						
 						
 					}
+					//Uyari mesaji CS6ServiceManager olan ekrani kapatir
 				}else if(list.MainWindowTitle.Contains("CS6ServiceManager")){
 					try {
 						list.CloseMainWindow();

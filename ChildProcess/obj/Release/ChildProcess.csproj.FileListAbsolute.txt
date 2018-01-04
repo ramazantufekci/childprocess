@@ -1,6 +1,0 @@
-C:\Users\ramazan\Documents\SharpDevelop Projects\ChildProcess\ChildProcess\bin\Release\ChildProcess.exe.config
-C:\Users\ramazan\Documents\SharpDevelop Projects\ChildProcess\ChildProcess\bin\Release\ChildProcess.exe
-C:\Users\ramazan\Documents\SharpDevelop Projects\ChildProcess\ChildProcess\obj\Release\ChildProcess.csprojResolveAssemblyReference.cache
-C:\Users\ramazan\Documents\SharpDevelop Projects\ChildProcess\ChildProcess\obj\Release\ChildProcess.MainForm.resources
-C:\Users\ramazan\Documents\SharpDevelop Projects\ChildProcess\ChildProcess\obj\Release\ChildProcess.csproj.GenerateResource.Cache
-C:\Users\ramazan\Documents\SharpDevelop Projects\ChildProcess\ChildProcess\obj\Release\ChildProcess.exe
